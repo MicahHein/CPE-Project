@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9d908b2e05f21c446afcb456ae438e7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlane: {instanceID: 0}
+  - AlphabetsVideoClip: {fileID: 32900000, guid: a34822730794c65458a2cf965465c5dc, type: 3}
+  - AnimalsVideoClip: {fileID: 32900000, guid: 2d56ce1d9c9dd284883eec65b98db06c, type: 3}
+  - NumbersVideoClip: {fileID: 32900000, guid: 9eaf32b7af87af648b92f0dd7780b8bd, type: 3}
+  - ColoursVideoClip: {fileID: 32900000, guid: ca763f883f112604a8b1f45f63cd6df0, type: 3}
+  - HobbiesVideoClip: {fileID: 32900000, guid: 25deebb7023182142a88f2e324c5ca3c, type: 3}
+  - FruitsVideoClip: {fileID: 32900000, guid: ab31a8bea24ac6042995e01cbc3c379a, type: 3}
+  - FoodVideoClip: {fileID: 32900000, guid: 94fc9f3b2d9765d448c6ec47db77f767, type: 3}
+  - FamilyVideoClip: {fileID: 32900000, guid: 02bc9510263ed4740a8f9faf53697a38, type: 3}
+  - DirectionsVideoClip: {fileID: 32900000, guid: 53a0fb4a05a78f04ebd46249bec56bd0, type: 3}
+  - IntroWordsVideoClip: {fileID: 32900000, guid: 38ce40fc51931584f8094ca82f08f367, type: 3}
+  - JobsVideoClip: {fileID: 32900000, guid: 5fc6813a68934ba409b4ca4983d56425, type: 3}
+  - DaysVideoClip: {fileID: 32900000, guid: 03aa97e9197a2744d84a614d88f529e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
